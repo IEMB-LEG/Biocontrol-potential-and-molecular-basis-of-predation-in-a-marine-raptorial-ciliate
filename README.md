@@ -1,7 +1,7 @@
 # Biocontrol potential and molecular basis of predation in a marine raptorial ciliate
 
 ![Version](https://img.shields.io/badge/Version-1.0-brightgreen)
-![Release date](https://img.shields.io/badge/Release%20date-Jun.%324%202024-brightgreen.svg)
+![Release date](https://img.shields.io/badge/Release%4date-Jan.%324%202026-brightgreen.svg)
 
 
 
