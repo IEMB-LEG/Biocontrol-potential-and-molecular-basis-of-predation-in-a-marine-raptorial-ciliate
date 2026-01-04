@@ -33,7 +33,7 @@ R
 
 # Usage
 
-**Use the R script and the data in the folder to get the Figure.**
+**Use the R script or python script and the data in the folder to get the Figure.**
 
 **Figure-2**
 
