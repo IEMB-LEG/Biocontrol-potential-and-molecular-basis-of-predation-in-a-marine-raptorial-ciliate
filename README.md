@@ -21,7 +21,7 @@ The file contains the secondary derived data and scripts of paper named "Biocont
 
 ## Hardware Requirements
 
-Glauconema phenotypic plasticity only requires a standard computer with sufficient RAM to support the operations defined by a user. For typical users, this would be a computer with about 2 GB of RAM. For optimal performance, we recommend a computer with the following specs:
+Biocontrol potential and molecular basis of predation in a marine raptorial ciliat only requires a standard computer with sufficient RAM to support the operations defined by a user. For typical users, this would be a computer with about 2 GB of RAM. For optimal performance, we recommend a computer with the following specs:
 
   RAM: 8+ GB
   CPU: 4+ cores, 3.3+ GHz/core
