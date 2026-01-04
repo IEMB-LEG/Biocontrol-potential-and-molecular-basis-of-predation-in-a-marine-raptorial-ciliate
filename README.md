@@ -35,14 +35,14 @@ R
 
 **Use the R script and the data in the folder to get the Figure.**
 
-**Figure-1L**
+**Figure-2**
 
-The survival curve of tomites of G. sp1 LHA0827 upon starvation.
+The survival curve of tomites of Figure_2 upon starvation.
 ```
-Rscript	Figure_1L.R Figure_1L.xlsx 
+Rscript	Figure_2L.R Figure_2.xlsx 
 ```
 
 # dataset
 Here we provide the secondary derived data and scripts for Biocontrol potential and molecular basis of predation in a marine raptorial ciliate.
 
-In the zip file, there are multiple folders named with the figure number, like predation_2026-Figure-1L, which contain the data and R scripts used to draw.
+In the zip file, there are multiple folders named with the figure number, like predation_2026-Figure-2, which contain the data and R scripts used to draw.
