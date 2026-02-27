@@ -6,7 +6,7 @@
 
 
 ## Contents
-
+https://github.com/IEMB-LEG/Biocontrol-potential-and-molecular-basis-of-predation-in-a-marine-raptorial-ciliate/blob/main/README.md
 - [Introduction](#introduction)
 - [System Requirement and dependency](#system-requirement-and-dependency)
 - [Usage](#usage)
@@ -35,11 +35,10 @@ R
 
 **Use the R script or python script and the data in the folder to get the Figure.**
 
-**Figure-2**
+**Figure-3C**
 
-The survival curve of tomites of Figure_2 upon starvation.
 ```
-Rscript	Figure_2L.R Figure_2.xlsx 
+Rscript	gene_length_number.R gene_length_number.csv 
 ```
 
 # dataset
